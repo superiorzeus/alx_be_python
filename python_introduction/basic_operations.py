@@ -1,4 +1,4 @@
-number1 = 7
+number1 = 10
 number2 = 5
 add = number1 + number2
 sub = number1 - number2
