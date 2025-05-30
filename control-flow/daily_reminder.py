@@ -13,7 +13,7 @@ match priority:
         print(f"Task: {task} priority not specified")
     
 if time_bound == "yes":
-    reminder += " It is time-sensitive and requires immediate attention today!"
+    reminder += " is a high priority task that requires immediate attention today!"
 else:
     reminder += " (no time constraint)"
 
